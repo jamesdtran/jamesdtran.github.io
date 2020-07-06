@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact me
 ---
 
 <img src="../assets/img/contactme.jpg" alt="contactme"
