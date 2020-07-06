@@ -3,11 +3,9 @@ layout: page
 title: About me
 ---
 
-<img src="../assets/img/headshot-01.jpg" alt="Headshot01"
-	title="My face" width="300" height="450" />
 
-Hi, I'm James Tran. I'm a PhD candidate at the University of Toronto where I've been studying *TP53* and how mutations in the gene can cause cancer predisposition.
+I grew up in Mississauga, Ontario, Canada, and now live in the beautiful city of Toronto - home of the 2018-2019 NBA champions. When I'm not working, you can find me watching [movies](https://letterboxd.com/jamesdtran/), cooking, pet sitting, playing [volleyball](http://www.9-man.com/) and basketball, and biking around the city.
 
-I believe that biology is fundamentally interesting; each cell, protein, and gene plays a role in affecting our lives, as long as you have a bit of background knowledge and look closely enough.
+I believe that everyone benefits from having a better understanding of the biological processes that occur all around us and keep us alive.
 
-Outside of the lab, 
+By training scientists to [communicate their ideas](https://biorender.com/) and making science [more accessible](https://www.scienceforlife.org/) to the general public, we can gain more support for science-based reasoning and policies to help solve some of the world's biggest problems: lifestyle-based diseases, communicable diseases, and global warming.
