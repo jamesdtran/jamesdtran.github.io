@@ -9,4 +9,4 @@ You can reach me by [e-mail](mailto:jamesdtran@gmail.com) or by connecting with 
 
 
 <img src="../assets/img/contactme.jpg" alt="contactme"
-	title="I check my e-mail often" width="300" height="300" >
+	title="I check my e-mail often" width="300" height="300">
